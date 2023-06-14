@@ -1,13 +1,9 @@
 export const themeProject = {
   colors: {
-    primary:'',
-    secondary:'',
-    theme:{
-      light: '#F5F5F5',
-      dark:'#191919',
-    },
-    text:{
+    primary:'#212529',
+    secondary:'#343a40',
+    textMain:'#c4cfde',
+    textAlternative:'#cf1f1f',
 
-    },
   }
 }
